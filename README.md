@@ -33,3 +33,5 @@ http://vdomela.com:84/d_drive/Hindi/Action/Uri%20The%20Surgical%20Strike%20(2019
 http://vdomela.com:84/d_drive/Hindi/Action/War%202019/War%202019.mp4
 #EXTINF:-1 ,Parmanu
 http://vdomela.com:84/d_drive/Hindi/Action/Parmanu%20The%20Story%20of%20Pokhran%20(2018)/Parmanu%20The%20Story%20of%20Pokhran%20(2018).mp4
+#EXTINF:-1 ,Gumnaami
+http://candybd.net/upload/source/movies/BANGLA/Gumnaami.2019.1080p.WEB-DL.AAC.x264-BonsaiHD.mkvv
