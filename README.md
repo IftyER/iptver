@@ -31,3 +31,5 @@ http://vdomela.com:84/d_drive/Hindi/Horror/Chhorii%20(2021)/Chhorii%20(2021).mp4
 http://vdomela.com:84/d_drive/Hindi/Action/Uri%20The%20Surgical%20Strike%20(2019)/Uri%20The%20Surgical%20Strike%20(2019).mp4
 #EXTINF:-1 ,WAR
 http://vdomela.com:84/d_drive/Hindi/Action/War%202019/War%202019.mp4
+#EXTINF:-1 ,Parmanu
+http://vdomela.com:84/d_drive/Hindi/Action/Parmanu%20The%20Story%20of%20Pokhran%20(2018)/Parmanu%20The%20Story%20of%20Pokhran%20(2018).mp4
