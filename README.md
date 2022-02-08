@@ -29,3 +29,9 @@ https://cutt.ly/Artangire202
 http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282022%29/Looop%20Lapeta%20%282022%29%201080p/Looop%20Lapeta%20%282022%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
 #EXTINF:-1 ,Doraemon Nobita and the Spiral City
 http://12.1.1.3/d_drive/Animation/2021/Doraemon%20Nobita%20and%20the%20Spiral%20City/Doraemon-Nobita%20and%20the%20Spiral%20City%20(1997)%20RM%201080p%20WEB-DL%20x265%20HEVC%20[Dual%20Audio][Hindi%20DD2.0+Japanese%202.0]%20-TW4all.mkv
+#EXTINF:-1 ,Taan
+http://gcdn.banglaplex.site/0:/CDN/Bengali/Taan.2022.1080p.Chorki.WEB-DL.BanglaPlex.site.AAC2.0.H.264.mkv
+#EXTINF:-1 ,Bony
+http://103.90.13.8/data/Bangla_Movies/Indian_Bangla/Bony%20%282021%29/Bony%20%282021%29%201080p%20WEBRip.mkv
+#EXTINF:-1 ,Shaaticup
+http://gcdn.banglaplex.site/0:/CDN/Shaaticup.2022.S01.Complete.BanglaPlex.site.1080p.Chorki.WEB-DL.mp4
