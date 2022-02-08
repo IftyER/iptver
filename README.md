@@ -519,5 +519,5 @@ https://cutt.ly/Jaibhim2021
 https://cutt.ly/MasterTamil
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2MDk2NGEtNDcwZC00NmU5LTk5NmMtODE1NDRlMDFmODU2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg" group-title="2022 Dhammaka Movies", Atrangi Re (2021)
 https://cutt.ly/Artangire202
-#EXTINF:-1 tvg-logo="https://i.imgur.com/RR0Iv6V.png" , 1. BTV World
-http://103.106.2.149:13456/btv_world.m3u8
+#EXTINF:-1 tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/197001-198000/197277.jpg" group-title="2022 Dhammaka Movies", Loop Lapeta
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282022%29/Looop%20Lapeta%20%282022%29%201080p/Looop%20Lapeta%20%282022%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
