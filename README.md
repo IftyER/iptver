@@ -37,3 +37,11 @@ http://103.90.13.8/data/Bangla_Movies/Indian_Bangla/Bony%20%282021%29/Bony%20%28
 http://gcdn.banglaplex.site/0:/CDN/Shaaticup.2022.S01.Complete.BanglaPlex.site.1080p.Chorki.WEB-DL.mp4
 #EXTINF:-1 ,Love Aj Kal
 http://fs2.amrbd.com/FTP/Hindi%20Movies/2020/Love%20Aaj%20Kal%20%282020%29/Love%20Aaj%20Kal%202020%20JC%20WebRip%20Hindi%20720p%20mkvCinemas.mkv
+#EXTINF:-1 ,Silence Zee5
+http://vdomela.com:84/d_drive/Hindi/Action/Silence-%20Can%20You%20Hear%20It%20(2021)/Silence%E2%80%A6%20Can%20You%20Hear%20It%20(2021).mp4
+#EXTINF:-1 ,Chhorii
+http://vdomela.com:84/d_drive/Hindi/Horror/Chhorii%20(2021)/Chhorii%20(2021).mp4
+#EXTINF:-1 ,URI
+http://vdomela.com:84/d_drive/Hindi/Action/Uri%20The%20Surgical%20Strike%20(2019)/Uri%20The%20Surgical%20Strike%20(2019).mp4
+#EXTINF:-1 ,WAR
+http://vdomela.com:84/d_drive/Hindi/Action/War%202019/War%202019.mp4
