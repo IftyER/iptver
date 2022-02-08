@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Zee Tv
-https://live.bongobd.com:1443/hls/sjP46mFt6WIa9npJt42ogA/1644247323/zee_tv_hi/index.m3u8
-#EXTINF:-1 ,T Sports
-http://103.84.253.5/live/0/index.m3u8
-
-
-_____________VOD_____________
-
-
-#EXTINF:-1 tvg-id="" tvg-name="Ertugrul History" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="Ertugrul Coming Soon",Ertugrul History Bangla
-https://cdn1.wapka.io/005fd8/26f94131e5d9099742c4b2c745211164/2e01e17467891f7c933dbaa00e1459d23db3fe4f/facebook-undefinedsource_11_1.mp4
-
-#EXTINF:-1 tvg-id="" tvg-name="Dirilis Ertugrul S01 E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="Dirilis Ertugrul (2014-2019)",Dirilis Ertugrul S01 E01
-http://cds2.discoveryftp.net/Dubbed%20Tv%20Series/Dirilis%20Ertugrul%20%282014-2019%29/Season%201/Dirili%C5%9F%20Ertu%C4%9Frul%20B%C3%B6l%C3%BCm.1%20Bangla%20Dubbing.mp4?
 #EXTINF:-1 tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg" group-title="2022 Dhammaka Movies", PushPa The Rise (2021)
 http://12.1.1.3/d_drive/Hindi/2021/Pushpa%20Hindi/Pushpa%20(2021)%20Hindi%20Dubbed%20(Cleaned)%201080p%20AMZN%20WEBRip%20x264%20ESub%20-CineVood.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlYWFhZWUtZTY0OC00MjFkLWEyMDctYzQ5MTJiMTkwZmY4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Kurup (2021)
