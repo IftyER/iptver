@@ -14,7 +14,7 @@ https://cdn1.wapka.io/005fd8/26f94131e5d9099742c4b2c745211164/2e01e17467891f7c93
 #EXTINF:-1 tvg-id="" tvg-name="Dirilis Ertugrul S01 E01" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYwM2Y5NzMtMzQzZC00YTE5LTlmYzctMzc2M2E5NGQ2YjFjXkEyXkFqcGdeQXVyNTM3NzExMDQ@._V1_.jpg" group-title="Dirilis Ertugrul (2014-2019)",Dirilis Ertugrul S01 E01
 http://cds2.discoveryftp.net/Dubbed%20Tv%20Series/Dirilis%20Ertugrul%20%282014-2019%29/Season%201/Dirili%C5%9F%20Ertu%C4%9Frul%20B%C3%B6l%C3%BCm.1%20Bangla%20Dubbing.mp4?
 #EXTINF:-1 tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg" group-title="2022 Dhammaka Movies", PushPa The Rise (2021)
-https://cutt.ly/Pushpa2022HD
+http://12.1.1.3/d_drive/Hindi/2021/Pushpa%20Hindi/Pushpa%20(2021)%20Hindi%20Dubbed%20(Cleaned)%201080p%20AMZN%20WEBRip%20x264%20ESub%20-CineVood.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlYWFhZWUtZTY0OC00MjFkLWEyMDctYzQ5MTJiMTkwZmY4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Kurup (2021)
 http://content.discoveryftp.net/Movies/Dubbed/Others/2021/Kurup/Kurup%202021%201080p%20WEB-DL%20Hindi%20DD5%201-Malayalam%20ESub%20x264-HDHub4u%20Tv.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY0MGIzYzktMGRlZC00ODEzLTlkMTMtZTJiZjc0ZjRhMDI0XkEyXkFqcGdeQXVyOTg0MTM1OTU@._V1_.jpg" group-title="2022 Dhammaka Movies", Antim The Final Truth (2021)
@@ -27,3 +27,5 @@ https://cutt.ly/MasterTamil
 https://cutt.ly/Artangire202
 #EXTINF:-1 tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/197001-198000/197277.jpg" group-title="2022 Dhammaka Movies", Loop Lapeta
 http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282022%29/Looop%20Lapeta%20%282022%29%201080p/Looop%20Lapeta%20%282022%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
+#EXTINF:-1 ,Doraemon Nobita and the Spiral City
+http://12.1.1.3/d_drive/Animation/2021/Doraemon%20Nobita%20and%20the%20Spiral%20City/Doraemon-Nobita%20and%20the%20Spiral%20City%20(1997)%20RM%201080p%20WEB-DL%20x265%20HEVC%20[Dual%20Audio][Hindi%20DD2.0+Japanese%202.0]%20-TW4all.mkv
