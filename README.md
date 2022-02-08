@@ -35,3 +35,5 @@ http://gcdn.banglaplex.site/0:/CDN/Bengali/Taan.2022.1080p.Chorki.WEB-DL.BanglaP
 http://103.90.13.8/data/Bangla_Movies/Indian_Bangla/Bony%20%282021%29/Bony%20%282021%29%201080p%20WEBRip.mkv
 #EXTINF:-1 ,Shaaticup
 http://gcdn.banglaplex.site/0:/CDN/Shaaticup.2022.S01.Complete.BanglaPlex.site.1080p.Chorki.WEB-DL.mp4
+#EXTINF:-1 ,Love Aj Kal
+http://fs2.amrbd.com/FTP/Hindi%20Movies/2020/Love%20Aaj%20Kal%20%282020%29/Love%20Aaj%20Kal%202020%20JC%20WebRip%20Hindi%20720p%20mkvCinemas.mkv
