@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/pushpa--the-rise-et00129538-08-12-2021-01-21-46.jpg" group-title="2022 Dhammaka Movies", PushPa The Rise (2021)
-http://12.1.1.3/d_drive/Hindi/2021/Pushpa%20Hindi/Pushpa%20(2021)%20Hindi%20Dubbed%20(Cleaned)%201080p%20AMZN%20WEBRip%20x264%20ESub%20-CineVood.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlYWFhZWUtZTY0OC00MjFkLWEyMDctYzQ5MTJiMTkwZmY4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Kurup (2021)
 http://content.discoveryftp.net/Movies/Dubbed/Others/2021/Kurup/Kurup%202021%201080p%20WEB-DL%20Hindi%20DD5%201-Malayalam%20ESub%20x264-HDHub4u%20Tv.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY0MGIzYzktMGRlZC00ODEzLTlkMTMtZTJiZjc0ZjRhMDI0XkEyXkFqcGdeQXVyOTg0MTM1OTU@._V1_.jpg" group-title="2022 Dhammaka Movies", Antim The Final Truth (2021)
@@ -29,7 +27,7 @@ http://vdomela.com:84/d_drive/Hindi/Action/Silence-%20Can%20You%20Hear%20It%20(2
 http://vdomela.com:84/d_drive/Hindi/Horror/Chhorii%20(2021)/Chhorii%20(2021).mp4
 #EXTINF:-1 ,URI
 http://vdomela.com:84/d_drive/Hindi/Action/Uri%20The%20Surgical%20Strike%20(2019)/Uri%20The%20Surgical%20Strike%20(2019).mp4
-#EXTINF:-1 ,WAR
+#EXTINF:-1 ,War
 http://vdomela.com:84/d_drive/Hindi/Action/War%202019/War%202019.mp4
 #EXTINF:-1 ,Parmanu
 http://vdomela.com:84/d_drive/Hindi/Action/Parmanu%20The%20Story%20of%20Pokhran%20(2018)/Parmanu%20The%20Story%20of%20Pokhran%20(2018).mp4
@@ -37,3 +35,7 @@ http://vdomela.com:84/d_drive/Hindi/Action/Parmanu%20The%20Story%20of%20Pokhran%
 http://candybd.net/upload/source/movies/BANGLA/Gumnaami.2019.1080p.WEB-DL.AAC.x264-BonsaiHD.mkvv
 #EXTINF:-1 ,Sony Ten 1
 http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Secret Superstar
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282017%29/Secret%20Superstar%20%282017%29%201080p/Secret%20Superstar%20%282017%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
+#EXTINF:-1 ,Khiladi
+http://172.16.50.9/SAM-FTP-1/South%20Indian%20Movies/HINDI%20DUBBED/%282022%29/Khiladi%20%282022%29%201080p%20PDVDRip%20V2%20%28Hindi%20Dubbed%29/Khiladi%20%282022%29%20V2%20Hindi%20Dubbed%201080p%20PreDVDRip%20x264%20AAC%20-%20CineVood.mkv
