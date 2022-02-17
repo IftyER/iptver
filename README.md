@@ -3,18 +3,12 @@
 http://content.discoveryftp.net/Movies/Dubbed/Others/2021/Kurup/Kurup%202021%201080p%20WEB-DL%20Hindi%20DD5%201-Malayalam%20ESub%20x264-HDHub4u%20Tv.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY0MGIzYzktMGRlZC00ODEzLTlkMTMtZTJiZjc0ZjRhMDI0XkEyXkFqcGdeQXVyOTg0MTM1OTU@._V1_.jpg" group-title="2022 Dhammaka Movies", Antim The Final Truth (2021)
 http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282021%29/Antim-The%20Final%20Truth%20%282021%29%201080p/Antim%20The%20Final%20Truth%20%282021%29%20Hindi%201080p%20Zee5%20WEBRip%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1OTYzYzAtMDcyOS00MDI0LTg2ZmQtYTEyMDdmMmQ0MjY5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpgpg" group-title="2022 Dhammaka Movies", MASTER (2021)
-https://cutt.ly/MasterTamil
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2MDk2NGEtNDcwZC00NmU5LTk5NmMtODE1NDRlMDFmODU2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg" group-title="2022 Dhammaka Movies", Atrangi Re (2021)
-https://cutt.ly/Artangire202
 #EXTINF:-1 tvg-logo="https://i2.cinestaan.com/image-bank/1500-1500/197001-198000/197277.jpg" group-title="2022 Dhammaka Movies", Loop Lapeta
 http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282022%29/Looop%20Lapeta%20%282022%29%201080p/Looop%20Lapeta%20%282022%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
 #EXTINF:-1 ,Doraemon Nobita and the Spiral City
 http://12.1.1.3/d_drive/Animation/2021/Doraemon%20Nobita%20and%20the%20Spiral%20City/Doraemon-Nobita%20and%20the%20Spiral%20City%20(1997)%20RM%201080p%20WEB-DL%20x265%20HEVC%20[Dual%20Audio][Hindi%20DD2.0+Japanese%202.0]%20-TW4all.mkv
 #EXTINF:-1 ,Taan
 http://gcdn.banglaplex.site/0:/CDN/Bengali/Taan.2022.1080p.Chorki.WEB-DL.BanglaPlex.site.AAC2.0.H.264.mkv
-#EXTINF:-1 ,Bony
-http://103.90.13.8/data/Bangla_Movies/Indian_Bangla/Bony%20%282021%29/Bony%20%282021%29%201080p%20WEBRip.mkv
 #EXTINF:-1 ,Shaaticup
 http://gcdn.banglaplex.site/0:/CDN/Shaaticup.2022.S01.Complete.BanglaPlex.site.1080p.Chorki.WEB-DL.mp4
 #EXTINF:-1 ,Love Aj Kal
