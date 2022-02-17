@@ -2,9 +2,7 @@
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BOGVlYWFhZWUtZTY0OC00MjFkLWEyMDctYzQ5MTJiMTkwZmY4XkEyXkFqcGdeQXVyMzQ5Njc3NzU@._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Kurup (2021)
 http://content.discoveryftp.net/Movies/Dubbed/Others/2021/Kurup/Kurup%202021%201080p%20WEB-DL%20Hindi%20DD5%201-Malayalam%20ESub%20x264-HDHub4u%20Tv.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmY0MGIzYzktMGRlZC00ODEzLTlkMTMtZTJiZjc0ZjRhMDI0XkEyXkFqcGdeQXVyOTg0MTM1OTU@._V1_.jpg" group-title="2022 Dhammaka Movies", Antim The Final Truth (2021)
-http://server3.ftpbd.net/FTP-3/Hindi%20Movies/2021/Antim%20The%20Final%20Truth%20%282021%29%20Hindi%20%201080p%20WEB-DL/Antim.The.Final.Truth.2021.1080p.ZEE5.WEB-DL.mp4
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BY2Y5ZWMwZDgtZDQxYy00Mjk0LThhY2YtMmU1MTRmMjVhMjRiXkEyXkFqcGdeQXVyMTI1NDEyNTM5._V1_FMjpg_UX1000_.jpg" group-title="2022 Dhammaka Movies", Jai Bhim (2021)
-https://cutt.ly/Jaibhim2021
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282021%29/Antim-The%20Final%20Truth%20%282021%29%201080p/Antim%20The%20Final%20Truth%20%282021%29%20Hindi%201080p%20Zee5%20WEBRip%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNmU1OTYzYzAtMDcyOS00MDI0LTg2ZmQtYTEyMDdmMmQ0MjY5XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_.jpgpg" group-title="2022 Dhammaka Movies", MASTER (2021)
 https://cutt.ly/MasterTamil
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGI2MDk2NGEtNDcwZC00NmU5LTk5NmMtODE1NDRlMDFmODU2XkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg" group-title="2022 Dhammaka Movies", Atrangi Re (2021)
@@ -39,3 +37,5 @@ http://103.102.27.172:6464/Channel-4/tracks-v1a1/mono.m3u8
 http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282017%29/Secret%20Superstar%20%282017%29%201080p/Secret%20Superstar%20%282017%29%20Hindi%201080p%20BluRay%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 ,Khiladi
 http://172.16.50.9/SAM-FTP-1/South%20Indian%20Movies/HINDI%20DUBBED/%282022%29/Khiladi%20%282022%29%201080p%20PDVDRip%20V2%20%28Hindi%20Dubbed%29/Khiladi%20%282022%29%20V2%20Hindi%20Dubbed%201080p%20PreDVDRip%20x264%20AAC%20-%20CineVood.mkv
+#EXTINF:-1 ,The Girl On the train
+http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282021%29/The%20Girl%20on%20the%20Train%20%282021%29%201080p/The%20Girl%20on%20the%20Train%20%282021%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20LOKiHD.mkv
