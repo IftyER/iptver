@@ -33,3 +33,9 @@ http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282017%29/Secret%20Superstar%20%282
 http://172.16.50.9/SAM-FTP-1/South%20Indian%20Movies/HINDI%20DUBBED/%282022%29/Khiladi%20%282022%29%201080p%20PDVDRip%20V2%20%28Hindi%20Dubbed%29/Khiladi%20%282022%29%20V2%20Hindi%20Dubbed%201080p%20PreDVDRip%20x264%20AAC%20-%20CineVood.mkv
 #EXTINF:-1 ,The Girl On the train
 http://172.16.50.9/SAM-FTP-1/Hindi%20Movies/%282021%29/The%20Girl%20on%20the%20Train%20%282021%29%201080p/The%20Girl%20on%20the%20Train%20%282021%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20LOKiHD.mkv
+#EXTINF:-1 ,Doraemon In Nobita's Little Space War
+http://172.16.50.10/SAM-FTP-3/Animation%20Movies/Doraemon%20Movies%20Collection%20720p%20%28Hindi%20Dubbed%29/Movie%2001.%20Doraemon%20In%20Nobita%27s%20Little%20Space%20War%20%28Hindi%20Dubbed%29%20REMASTERED%20720p%20WEB-DL%20x264%20AAC.mp4
+#EXTINF:-1 ,#EXTINF:-1 ,Sabrina
+https://gcdn.banglaplex.site/0:/Sabrina.S01.Hoichoi.WEB-DL.BanglaPlex.site.AAC2.0.H.264.mkv
+#EXTINF:-1 ,Doraemon The Movie Nobita In Jannat No.1
+http://172.16.50.10/SAM-FTP-3/Animation%20Movies/Doraemon%20Movies%20Collection%20720p%20%28Hindi%20Dubbed%29/Movie%2009.%20Doraemon%20The%20Movie%20Nobita%20In%20Jannat%20No.1%20%28Hindi%20Dubbed%29%20720p%20WEBRip%20x264%20AAC.mp4
