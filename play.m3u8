@@ -1,25 +1,8 @@
 #EXTM3U
-#EXT-X-TARGETDURATION:5
-#EXT-X-MEDIA-SEQUENCE:423368571
-#EXT-X-VERSION:3
-#EXT-X-KEY:METHOD=AES-128,URI="key.php?key=13a8b597-5a5d-4bc4-84dc-5bebc13e5ffa_0_1693473917.key",IV=0x766E14C7B0582F8C0BC3969D033C1E2D
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474278.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474282.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474286.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474290.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474294.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474298.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474302.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474306.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474310.ts
-#EXTINF:4.000,
-https://mprod-cdn.toffeelive.com/asiacup2023/match-1/master_1000/1693474314.ts
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/647f07e74cfc2c0008a2e557/colorLogoPNG.png", DAZN TV
+#EXTINF:-1,DAZN TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/647f07e74cfc2c0008a2e557livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64b79c057d934100080b3583/colorLogoPNG.png", DAZN INTL Football
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64b79c057d934100080b3583livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/64afe50c5dc16600087f3227/colorLogoPNG.png", DAZN Heldinnen
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64afe50c5dc16600087f3227livestitch/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
